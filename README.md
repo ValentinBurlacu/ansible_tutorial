@@ -1,4 +1,4 @@
-# ansible_tutoria
+# ansible_tutorial
 
 This is my awaesome Ansible reposiroty!
 
