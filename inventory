@@ -1,4 +1,9 @@
+[web_servers]
 a-server1
-a-server2
-a-server3
 a-server4
+
+[db_servers]
+a-server2
+
+[file_servers]
+a-server3
